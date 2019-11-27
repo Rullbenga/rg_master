@@ -1,0 +1,20 @@
+{
+  "links": [
+    {
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/rullbem"
+    },
+    {
+      "title": "Behance",
+      "icon": "fa-dribbble",
+      "url": "https://dribbble.com/rullben"
+    },
+    {
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/"
+    }
+    
+  ]
+}
