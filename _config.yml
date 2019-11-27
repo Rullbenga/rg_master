@@ -18,7 +18,7 @@ description: "I'm Ruben Gutierrez, a web developer from La Habra, Califronia.  "
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: ""
+url: "http://www.ruben-gutierrez.design/"
 
 # Favicon
 favicon: images/favicon.png
