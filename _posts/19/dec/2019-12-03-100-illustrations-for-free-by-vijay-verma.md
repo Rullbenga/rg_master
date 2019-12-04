@@ -2,7 +2,7 @@
 layout: post
 title: "100 Illustrations for Free by Vijay Verma"
 description: "Check Out these Awesome Free Illustrations which include an iPod, a bedroom set, a forklift, a cassette tape, an e-bike, a GPU, a sailboat, a Christmas tree, city arrangements and much more."
-date: 2019-12-03T18:40:00-07:00
+date: 2019-12-03T06:40:00-08:00
 feature_image: images/19/dec/free-illustrations.png
 ---
 
