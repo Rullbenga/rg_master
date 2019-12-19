@@ -11,12 +11,11 @@ Aside from helping small businesses, Ruben also contributes to open source desig
 
 Ruben mainly works with the popular Content Management System WordPress, but prefers to create websites from scratch with HTML, CSS, & JS and all the libraries and frameworks in between.
 
-When Ruben isn’t on his computer typing away, he’s as far away from it as possible, somewhere in a forest. 
-
+When Ruben isn’t on his computer typing away, he’s as far away from it as possible, somewhere in the hills of California. 
 
 **Contact Information:**
 
-Email: **Rullbenga@gmail.com**<br>
+Email: [**Rullbenga@gmail.com**](https://en.wikipedia.org/wiki/La_Habra,_California)
 Phone Number: **(562) 524 - 8856**
 
 ## Portfolio
