@@ -12,7 +12,8 @@ lang: en-US
 title: "Ruben Gutierrez"
 
 # A description of your site for meta tag, search engine results.
-description: "I'm Ruben Gutierrez, a web developer from La Habra, Califronia.  "
+description: "A Web Developer from California who mainly works with WordPress but prefers making websites from scratch.  Check out this blog if you're intrested in 
+web development and design"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
