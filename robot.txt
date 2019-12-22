@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /free-icon-designs-commercial-free-vjima-verma
 Disallow: /landing.html
 Disallow: /feed.xml
