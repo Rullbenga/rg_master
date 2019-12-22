@@ -27,7 +27,7 @@ Along with providing us with a lot of useful information about WordPress plugins
 
 ### Tasks you should learn when working with WordPress plugins
 	
-- How to Install a WordPress plugin from the WordPress plugin director(Dashboard)
+- How to Install a WordPress plugin from the WordPress plugin directory (Dashboard)
 - How to install WordPress plugins through an FTP client
 - How to activate a WordPress plugin
 - How to upload paid plugins to your WordPress dashboard
@@ -36,4 +36,4 @@ Along with providing us with a lot of useful information about WordPress plugins
 - Which folder to upload your paid plugin to
 - How to configure a paid plugin in your WordPress dashboard
 - How to remove paid plugins from the WordPress dashboard
-- How to deactivate a wordPress plugin
+- How to deactivate a WordPress plugin
