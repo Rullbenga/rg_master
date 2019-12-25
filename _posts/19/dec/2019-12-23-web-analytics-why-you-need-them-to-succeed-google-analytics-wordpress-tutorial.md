@@ -8,19 +8,23 @@ feature_image: images/19/dec/stop-guessing-web-analytics-importance-post-thumbna
 
 ## Why should I use analytics for my website?
 
-Web Analytics are essential for anyone interested in keeping track of their progress with just about anything they're trying to excel at.  They can help you see if your efforts are affecting your website in a positive, negative, or neutral way.
+I believe using Web Analytics is essential for anyone interested in keeping track of their progress with just about anything they're trying to get better in.  They can help you see if your efforts are affecting your website in a positive, negative, or neutral way.
 
-## Running for analytics
+## Stair climbing analytics
 
-A runner can use analytics to help them get better at running.  By keeping track of things like the distances they run, calories they burn, calories they intake, and their mile times, they would be able to get a better idea of where they could improve to help them run faster and longer.
+I like to climb stairs every other day because it helps me stay healthy and relieves everyday stress.  I used to run, but that started taking a toll on my knees. Now by keeping track of things like the food I eat, the calories I burn, and the distances I cover, I've been able to improve my workouts,build muscle, and lose weight without having to put in a whole lot of extra effort like before. When you know what's working and what's not you can make informed decisions rather than relying on chance.
 
 ## How can web analytics improve my website?
 
-For websites this is especially important, by setting up analytics you can track your web traffic to help you better understand things like
+I think for websites, analytics are especially important because they can help you get to know your visitors.  
+
+Any time I try to explain something that sounds a bit complex to someone I know, I find that the conversation goes a lot smoother if I use refrences or comparisons to something they interested in.  I think you can do the same with your content, when you know who you're talking to, it makes it easier and more enjoyable to communicate with that person.
+
+Analytics inform you about information like: 
 
 - Live information as it happens
 - Visitor behavior, see how much time users spent on what page
-- Where your user are are located
+- Where your users are located
 - See when a visitor came to your website
 - The most visited pages on your site
 - What pages get the most clicks on your site
@@ -28,7 +32,7 @@ For websites this is especially important, by setting up analytics you can track
 - New or returning visitors
 - Highest web traffic times
 
-All of these things can help you get to know your audience better, which can help you optimize your content to help them understand what you're trying to explain.
+Becoming familiar with all this information can help you get to know your audience.  This can make it easier for you to write content that easier to  relate to. 
 
 ## [Google Analytics](https://analytics.google.com)
 
@@ -43,8 +47,8 @@ Analytics Tools like Google Analytics can tell you more in-depth information abo
 
 & much more. On top of that, Google Analytics is **FREE!**.
 
-If you’re interested in learning more about Google Analytics [Nick Schäferoff](https://twitter.com/nschaeferhoff) over at [websitesetup.org](https://websitesetup.org/) has a lot of in-depth information about Google Analytics and how to use it which you can find in this [post](https://websitesetup.org/google-analytics-wordpress/).  He also has tutorials showing you how to install it through a WordPress plugin with a few clicks or how to do it manually by adding the javascript code in the functions.php or the header.php.
+[Nick Schäferoff](https://twitter.com/nschaeferhoff) over at [websitesetup.org](https://websitesetup.org/) has a lot of in-depth information about Google Analytics.  His [post](https://websitesetup.org/) helped me learn a few extra things about analytics.  His post also includes tutorials showing you how to install Google Analytics with a WordPress plugin and how to do it manually by adding the javascript code in the core files of your website through and FTP client.
 
 ## Conclusion
 
-To sum it up, website analytics can help you make better decisions about where you should invest your time, money, and effort.  They can also tell you where you shouldn't or where you might want to spend some extra effort optimizing. Most importantly, analytics can help you create a more tailored approach for your audience. 
+I think website analytics can help you make better decisions about where you should invest your time, money, and effort.  Because they help you become more familiar with the people visiting your website, they can help you make content tailored for them.
