@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /landing.html
+Disallow: /feed.xml
