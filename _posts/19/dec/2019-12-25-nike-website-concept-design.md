@@ -6,4 +6,5 @@ date: 2019-12-24T18:00:00-08:00
 feature_image: images/19/dec/nike-jordans-website-concept.jpg
 ---
 
-I made this web design when I first began to mock up websites, I saw everyone on dribbble doing it and thought I'd take a crack at it.
+I made this web design when I first began to mock up websites, I saw everyone on dribbble doing it and thought I'd take a crack at it.  It did pretty
+good, a lot of people liked it. You can find it on dribbble [here](https://dribbble.com/shots/6769259-Jordan-1-s).
