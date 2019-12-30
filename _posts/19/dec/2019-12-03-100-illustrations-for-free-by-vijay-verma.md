@@ -6,7 +6,7 @@ date: 2019-12-03T10:00:00-08:00
 feature_image: images/19/dec/free-illustrations.png
 ---
 
-Check out this [free set of illustrations](https://illlustrations.co/)provided by [Vijay Verma](https://twitter.com/realvjy), the current lead designer at Zomato.
+Check out this [free set of illustrations](https://illlustrations.co/) provided by [Vijay Verma](https://twitter.com/realvjy), the current lead designer at Zomato.
 
 Vijay recently went back into an old hard drive and found these illustrations he which he made in 2016 on his journey to becoming the well known designer he is today. 
 
