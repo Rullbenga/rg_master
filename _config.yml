@@ -70,3 +70,7 @@ sass:
   style: compressed
 
 twitter_username: rullbem
+
+google:
+  tag_manager:
+    container_id: GTM-MTZ2S65
