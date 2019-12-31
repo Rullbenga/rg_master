@@ -4,6 +4,11 @@ title: "Stop Guessing! Learn About Web Analytics And How To Use Them to Improve 
 description: "Learn the importance of website analytics and how to use them to improve your content.  Also, tutorials by NickNick Schäferoff on how install Google Analytics."
 date: 2019-12-23T06:30:00-08:00
 feature_image: images/19/dec/stop-guessing-web-analytics-importance-post-thumbnail.png
+keywords: Google Analytics Optimizing
+genre: Web Analytics
+award: Good Analytics Introduction
+wordcount: 500
+last_modified: 
 ---
 
 ## Why should I use analytics for my website?

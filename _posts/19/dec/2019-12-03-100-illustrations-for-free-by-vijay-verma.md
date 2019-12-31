@@ -4,6 +4,12 @@ title: "100 Illustrations for Free by Vijay Verma"
 description: "Check Out these Awesome Free Illustrations which include an iPod, a bedroom set, a forklift, a cassette tape, an e-bike, a GPU, a sailboat, a Christmas tree, city arrangements and much more."
 date: 2019-12-03T10:00:00-08:00
 feature_image: images/19/dec/free-illustrations.png
+keywords: Illustrations svg Free
+genre: Website Design
+award: Useful resources for web designer
+wordcount: 183
+last_modified: 
+
 ---
 
 Check out this [free set of illustrations](https://illlustrations.co/) provided by [Vijay Verma](https://twitter.com/realvjy), the current lead designer at Zomato.

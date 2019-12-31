@@ -1,0 +1,8 @@
+<script type="application/ld+json">
+{% if page.type == "post" %}
+{% include seo-post.html %}
+{% elsif page.type == "seo" %}
+{% include blog-post.html %}
+{% else %}
+{% endif %}
+</script>

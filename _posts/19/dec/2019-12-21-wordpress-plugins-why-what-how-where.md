@@ -4,6 +4,11 @@ title: "WordPress Plugins Why? What? How? and Where?"
 description: "Click here to learn about the importance of WordPress plugins and how to install, use, and maintain them for your website"
 date: 2019-12-21T07:00:00-08:00
 feature_image: images/19/dec/about-wordpress-plugins-for-beginners.png
+keywords: WordPress Plugin-ins What
+genre: WordPress
+award: Must read WordPress Tutorials
+wordcount: 403
+last_modified: 
 ---
 
 ## I've got a WordPress website now
