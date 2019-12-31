@@ -6,6 +6,7 @@
    "image": "{{site.url}}/{{ page.feature_image}}",
    "award": "{{page.award}}",
    "editor": "Ruben Gutierrez", 
+   "publisher": "Book Publisher Inc",
    "genre": "{{page.genre}}", 
    "keywords": "{{page.keywords}}", 
    "wordcount": "{{page.wordcount}}",
@@ -14,14 +15,6 @@
     "@type": "WebPage",
     "@id": "https://ruben-gutierrez.design/{{page.url}}"
   },
-   "publisher": {
-    "@type": "Person",
-    "name": "Ruben Gutierrez",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{site.url}}/favicon.png"
-      }
-    },
    "datePublished": "{{page.date | date: "%Y-%m-%-d" }}",
    "dateCreated": "{{page.date | date: "%Y-%m-%-d" }}",
    "dateModified": "{{page.last_modified | date: "%Y-%m-%-d" }}",
