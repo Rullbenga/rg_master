@@ -8,7 +8,7 @@ keywords: Nike Website Concept Jordans
 genre: Website Design
 award: Must See Nike Website 
 wordcount: 47
-last_modified: 
+last_modified: 2019-12-30
 ---
 
 I made this web design when I first began to mock-up websites, I saw everyone on dribbble doing it and thought I'd take a crack at it.  It did pretty

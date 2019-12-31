@@ -8,7 +8,7 @@ keywords: Infographic 6-Tips Malware Prevention
 genre: Infographics
 award: Informative Infographic
 wordcount: 4
-last_modified: 
+last_modified: 2019-12-30
 ---
 
 Read my [post](https://www.ruben-gutierrez.design/malware-that's-sweeping-the-wordpress-community-quick-questions) here.
