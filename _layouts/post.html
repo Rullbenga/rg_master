@@ -53,7 +53,7 @@
         <article class="post">
           <header itemscope class="post-header">
             <time itemprop class="post-date" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{page.date | date: "%B %-d, %Y" }}</time>
-            <h1 itemprop class="post-title">{{page.title}}</h1>
+            <h1 itemprop="mainEntityOfPage" class="post-title">{{page.title}}</h1>
             <div itemscope class="post-meta">
               By <span itemprop class="post-author">{{ site.data.author.name }}</span>
             </div><!-- .post-meta -->
