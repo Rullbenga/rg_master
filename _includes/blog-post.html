@@ -9,7 +9,19 @@
    "genre": "{{page.genre}}", 
    "keywords": "{{page.keywords}}", 
    "wordcount": "{{page.wordcount}}",
-   "publisher": "Ruben Gutierrez",
+   "url": "http://www.example.com",
+   "mainEntityOfPage": {
+    "@type": "BlogPosting",
+    "@id": "https://google.com/{{page.url}}"
+    },
+   "publisher": {
+    "@type": "Person",
+    "name": "Ruben Gutierrez",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{site.url}}/favicon.png"
+      }
+    },
    "url": "{{site.url}}",
    "datePublished": "{{page.date | date: "%Y-%m-%-d" }}",
    "dateCreated": "{{page.date | date: "%Y-%m-%-d" }}",
