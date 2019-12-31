@@ -1,7 +1,11 @@
 
 <script type="application/ld+json">
   { "@context": "https://schema.org", 
-   "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "Blogposting",
+    "@id": "https://www.ruben-gutierrez.design{{/page.url}}"
+    },
+   
    "headline": "{{page.title}}",
    "image": "{{site.url}}/{{ page.feature_image}}",
    "award": "{{page.award}}",
@@ -15,7 +19,7 @@
    "dateCreated": "{{page.date | date: "%Y-%m-%-d" }}",
    "dateModified": "{{page.last_modified | date: "%Y-%m-%-d" }}",
    "description": "{{page.description}}",
-     "author": {
+       "author": {
       "@type": "Person",
       "name": "Ruben Gutierrez"
     }
