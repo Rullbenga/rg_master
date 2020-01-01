@@ -52,7 +52,7 @@ Analytics Tools like Google Analytics can tell you more in-depth information abo
 
 & much more. On top of that, Google Analytics is **FREE!**.
 
-[Nick Schäferoff](https://twitter.com/nschaeferhoff) over at [websitesetup.org](https://websitesetup.org/) has a lot of in-depth information about Google Analytics.  His [post](https://websitesetup.org/) helped me learn a few extra things about analytics.  His post also includes tutorials showing you how to install Google Analytics with a WordPress plugin and how to do it manually by adding the javascript code in the core files of your website through and FTP client.
+[Nick Schäferoff](https://twitter.com/nschaeferhoff) over at [websitesetup.org](https://websitesetup.org/) has a lot of in-depth information about Google Analytics.  His [post](https://websitesetup.org/) helped me learn a few extra things about analytics.  His post also includes tutorials showing you how to link Google Analytics with a WordPress plugin and how to do it manually by adding the javascript code in the core files of your website through and FTP client.
 
 ## Conclusion
 
