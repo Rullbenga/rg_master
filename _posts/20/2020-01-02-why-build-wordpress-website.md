@@ -2,7 +2,7 @@
 layout: post
 title: "5 Really, Really Good Reasons Why You Should Choose WordPress"
 description: "Why choose WordPress? Here are 5 compelling reasons why you need to pick WordPress for your small business website now!"
-date: 2019-12-24T19:00:00-08:00
+date: 2020-01-02T12:00:00-08:00
 feature_image: images/20/jan/5-reason-to-choose-wordpress.png
 keywords: WordPress Reasons
 genre: WordPress
