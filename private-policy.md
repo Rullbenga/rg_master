@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Private Policy
+description: Private Policy page for https://www.ruben-gutierrez.design, Click here to read it.
 ---
  
 <p>Last updated: December 26, 2019</p>

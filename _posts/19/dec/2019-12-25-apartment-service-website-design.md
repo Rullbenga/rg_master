@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Professional website design for a corporate business, apartment finding website concept"
+title: "Apartment Finder Website Design"
 description: "A website design I made for an apartment finding service, the design looks very"
 date: 2019-12-24T19:00:00-08:00
 feature_image: images/19/dec/appartment-finding-website-design-template.jpg
