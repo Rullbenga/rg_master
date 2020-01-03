@@ -27,4 +27,4 @@ Below that is the websites "meet the team" section, this section is designed to 
 
 ## Let's work on your website
 
-If your intrested in making your website look like this, I am a web designer  who runs a professional website design business and can help you build a custom web design for your business.  
+If your intrested in making your website look like this, I am a web designer  who runs a professional website design business and can help you build a custom web design for your business. 

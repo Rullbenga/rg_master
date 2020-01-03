@@ -9,25 +9,25 @@ city: La Habra, California
 surrounding: Whittier, La Mirada, Fullerton, Brea, & Rownland Height.
 ---
 
-<h2 itemscope="offer"> Are you looking to make a website for your business? Or Are you looking to redesign your exisiting one?</h2>
+## Are you looking to make a website for your business or maybe you want to redesign your website?
 
-Hi I am <bold itemprop="name">Ruben Gutierrez<bold> and I provide Website Design services for the in the city of {{post.city}} located right at the corner of good ol' Orange County.  My goal is to provide the poeple of La Habra California with a website that helps them best represent their business.  I work with everyone from business owners to individuals. 
+Hi I am **Ruben Gutierrez** and I provide Website Design services for the in the city of La Habra, California located right at the corner of good ol' Orange County.  My goal is to help individuals and buisnesses in La Habra with a beatiful website that helps best represent them and their business.
 
-<h4 itemscope="specalizingIn"> Some of the features that make me stand out.</h4>
+#### Here are some of the features that I think help me stand out amongs the other Website Design companies in La Habra, and the surround area.
 
--   <h5 itemprop="moderWebsiteDesign">Modern Website Design </h5>
+- ## Modern Website Design
  
-    A business' website design says a lot about them.  A bad website design can make an individual reconsider a purchase or services.
+    My websites, compared to the ones you see when you google "La Habra Web Design" look exponentially better than .  Bad website design can make an individual reconsider a purchase or service.
 
-    With me, you can expect an amazing website with a premium feel that other {{page.city}} web design businesses do not offer. 
+    With me, you can expect a modern website design with a premium feel that you can find anywhere else in La Habra, California. 
 
 -   <h5 itemprop="responsiveWebDesign"> Mobile Responsive Websites </h5>
 
     I make sure your website can fit across multiple devices. In this day and age, everyone has a diffrent phone, tablet, computer. multipleake sure your website looks good on all of them. 
     
-    Other {{page.city}} website design business use only pre-made functionality that doesn't suit everyones design.  This can sometimes make a wpre-madeook cluttered and makes the expierence feel wonky, which can put people off.
+    Other {{page.city}} website design business use only pre-made functionality that doesn't work with all websites.   can sometimes make a wpre-madeook cluttered and makes the experience feel wonky, which can put people off.
 
-    Not to mention that Google and experiencech engines rank responsive website higher than non responsive websites.
+    Not to mention that Google and other search engines rank responsive websites higher than those that are not mobile-friendly.
      
 
 <h3 itemscope="phone-number"><a href="Tel: 123-456-7890">Click Here To Call Now (562) 479 - 8890</a></h3>
@@ -36,7 +36,7 @@ If your looking to hire someone near by then I'm the person for you, I attend th
 
 <h3 itemscope="reasonsToGetWebsite"> Why should I get a website?</h3>
 
-ebsite for your business is now considered by many to be an essential part of the way you conduct your business.  It can help seperate you from your competitors in your field.  
+Creating a website is considered to be essential in conducting business.  It can help dintinguish you from businesses similiar to yours.  
 
 <p itemscope="reasons">If your sill on the fence about investing in a website, here is some helpful information about why you might want to consider investing in one.</p>
 - <p itemscope="reasonCredibility">A website can help your business gain credibility</p>
