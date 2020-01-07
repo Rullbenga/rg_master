@@ -13,7 +13,7 @@ surrounding: Whittier, La Mirada, Fullerton, Brea, & Rownland Height.
 
 Hi I am **Ruben Gutierrez** and I provide Website Design services for the in the city of La Habra, California located right at the corner of good ol' Orange County.  My goal is to help individuals and buisnesses in La Habra with a beatiful website that helps best represent them and their business.
 
-#### Here are some of the features that I think help me stand out amongs the other Website Design companies in La Habra, and the surround area.
+## Here are some of the features that I think help me stand out amongs the other Website Design companies in La Habra, and the surround area.
 
 - ## Modern Website Design
  

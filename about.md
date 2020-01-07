@@ -15,7 +15,7 @@ When Ruben isn’t on his computer typing away, he’s as far away from it as po
 
 **Contact Information:**
 
-Email: [**Rullbenga@gmail.com**](https://en.wikipedia.org/wiki/La_Habra,_California)
+Email: **Rullbenga@gmail.com**
 Phone Number: **(562) 524 - 8856**
 
 ## Portfolio
