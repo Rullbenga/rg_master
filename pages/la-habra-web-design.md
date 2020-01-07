@@ -4,7 +4,7 @@ title: "Website Design Services in La Habra, California"
 permalink: 'la-habra-web-design'
 description: "I make websites for the city of La Habra, from custom hard coded websites to WordPress Themes"
 date: 2019-12-28T10:00:00-08:00
-feature_image: images\20\jan\website-design-la-Habra-California-advertisment.png
+feature_image: images/20/jan/website-design-la-Habra-California-advertisment.png
 genre: WordPress-Advertisment
 keywords: Web-Design Website Services Freelancer
 wordcount: 590
