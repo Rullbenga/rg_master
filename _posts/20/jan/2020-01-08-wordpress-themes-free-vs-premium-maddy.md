@@ -24,4 +24,6 @@ Among all the great information and helpful tips that Maddy provides In her [pos
 
 ## Why all free themes are not created equal 
 
-Free themes found in the WordPress repository are not like free themes that  you find online, which she mentions are rarely updated, leaving them open to security vulnerabilities. The themes found in the WordPress repository are heavily screened, from the code to the accessibility.  So if you are deciding on a free theme it's best to stick with the ones in the dashboard but if you do decide to download one off the internet she provides a process to help you find one that won't ruin your site later on.  
+Free themes found in the WordPress repository are not like free themes that  you find online, which she mentions are rarely updated, leaving them open to security vulnerabilities. The themes found in the WordPress repository are heavily screened, from the code to the accessibility.
+
+If you are deciding on a free theme it's best to stick with the ones in the dashboard but if you do decide to download one off the internet she provides a process to help you find one that won't ruin your site later on.  
