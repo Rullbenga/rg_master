@@ -13,7 +13,7 @@ last_modified: 2020-01-06
 
 **Have you ever wondered what the difference between free WordPress themes and paid and paid ones are?**
 
-[Maddy Osman](https://twitter.com/maddyosman)answers many of the following question below that most people have when they’re decided what WordPress theme they should choose. 
+[Maddy Osman](https://twitter.com/maddyosman) answers many of the following question below that most people have when they’re decided what WordPress theme they should choose. 
 
 - _Do you really need a premium theme to have a beautiful website?_
 - _Does a premium theme guarantee that your website will run faster?_
