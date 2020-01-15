@@ -814,9 +814,8 @@ p {
       .header-hero-content .header-singup input {
         height: 56px; } }
   .header-hero-content .header-singup .main-btn {
-    position: absolute;
+    position: relative;
     top: 3px;
-    right: 3px;
     height: 64px;
     line-height: 60px;
     padding: 0 40px;
@@ -833,7 +832,6 @@ p {
         margin-top: 10px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
       .header-hero-content .header-singup .main-btn {
-        position: absolute;
         top: 3px;
         right: 3px;
         width: auto;
