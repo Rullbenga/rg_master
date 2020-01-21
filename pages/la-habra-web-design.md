@@ -1,73 +1,77 @@
 ---
-layout: seo
-title: "Website Design Services in La Habra, California"
-permalink: 'la-habra-web-design'
-description: "I make websites for the city of La Habra, from custom hard coded websites to WordPress Themes"
-date: 2019-12-28T10:00:00-08:00
-feature_image: images/20/jan/website-design-la-Habra-California-advertisment.png
-genre: WordPress-Advertisment
-keywords: Web-Design Website Services Freelancer
-last_modified: 2020-01-06
-award: WordPress Services You Need
+layout: default
+title: nono
+description: Track and optimize your sales team in real time
+permalink: /la-habra-web-design
 ---
- 
-## Are you looking to make a website for your business or maybe you want to redesign your website?
- 
-Hi I'm **Ruben Gutierrez** and I provide Website Design services for the in the city of [La Habra](https://www.lahabracity.com), California located right at the corner of good ol' Orange County.
- 
-My goal is to help people make websites that best represent them and their business. I attend the annual [Corn Festival](http://lahabracornfestival.com/?page_id=46)  with my family every year, and I'm very familiar with the city I grew up in.
- 
-### What I think set met apart.
- 
--   **Modern Website Design**
- 
-    My websites in comparison to the other web design business websites around the city of La Habra look exponentially better.  I make them look more modern and not like something from the early 2000's.
- 
-    With me, you can expect website made with current design techniques and a snappy user experience. 
- 
--   **Responsive Website Design**
+<section class="hero">
+	<div class="text-container">
+		<h1 class="editable">Web Design In<strong> La Habra, CA</strong> </h1>
+		<p class="subtext editable">Track and optimize your sales team in real time.</p>
+		<div class="cta button alt"><a href="#content">Learn More</a></div>
+		<div>
+			<img src="{{ site.baseurl }}/images/alright.png" alt="Screenshot" class="screenshot editable" />
+		</div>
+	</div>
+</section>
 
-    While other web design companies install themes and just leave them as they are, I both hand code and adjust themes so they fit on all types of devices without compromising the look of your website.
-    
-    Not only are mobile responsive website favored by google but they also help serve your potential customers using their phones to find local businesses. 
- 
-    Google also prioritizes website with mobile functionality, not only is this a plus for your business but it's now more necessary than ever.
- 
-    **Work Ethic**
- 
-    While other businesses promise a speedy process I make sure I don't stop until your work is properly done.  
-     
- 
-### [Click Here to Call (562) 524-8856 ](tel:562-524-8856) 
- 
- 
-### Why should I get a website?
- 
-Creating a website is an essential part of your business even if your local.  It can help distinguish your business among the others.  
- 
-If your still on the fence about investing in a website, here are some helpful reasons to consider investing in one.
- 
-- A website can help your business gain credibility
-- It can help you advertise your services in your local area
-- Having a website makes it easier to communicate with your audience
-- It can help you advertise your products and services in your surrounding area
-- Searching for business on phones increasing more and more everyday.
-- It can help you get to know your audience to better serve them.
- 
-#### Here are some frequently asked questions that can help you understand the process of web design
- 
-##### How long will it take for you to make my website?
-Because everyones websites needs are different it's hard to really place an exact timeline but if your website is relatively small (7 - 15 pages) you can expect it to be up in a couple of weeks. Bigger websites that require more work will take longer.
- 
-##### How much will my website cost?
-The price of a website completely depends on your needs.  If you want top notch design quality along with a lot of functionality you can expect to pay over a thousand dollars, but if you just want something that looks decent and represents your business than you can expect to pay a few hundred dollars.  If you need a quote don’t hesitate to contact me.
- 
-##### Can I pay my website off in payments?
-Because the price of a website can be range from a few hundred dollars to a few thousands we can work out an installation plan.
- 
-##### What platform do you use to make websites?
-I mainly work with the popular CMS WordPress, but I also hardcode custom websites.
- 
-### [Click Here to Call (562) 524-8856 ](tel:562-524-8856) 
-
-
+<div class="content" id="content">
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>Are you looking to make a <strong>website</strong> for your business?</h2>
+				<p>Have you been Googling "web designers near me", "local website designer", or "I need a website designer" but you still
+				have no luck.  All you see is faceless web design companys and agencys from out of town promising you the world? well look no further
+				I offer the best local web design services in La Habra, California.</p>
+				<p>	My goal is to help people make websites that best represent them and their business. I attend the annual Corn Festival with my family every year, and I’m very familiar with the city I grew up in.</p>
+			</div>
+			<div class="image">
+				<img src="{{ site.baseurl }}/images/1.png" alt="Screenshot" class="editable" />
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>What sets met apart.</h2>
+				<h3>Modern Website Design</h3>
+				<p>Have you been Googling "web designers near me", "local website designer", or "I need a website designer" but you still
+				have no luck.  All you see is faceless web design companys and agencys from out of town promising you the world? well look no further
+				I offer the best web design services in La Habra, California.</p>
+				<p>With me, you can expect website made with current design techniques and a snappy user experience.</p>
+				<h3>Modern Website Design</h3>
+				<p>My websites in comparison to the other web design business websites around the city of La Habra look exponentially better. I make them look more modern and not like something from the early 2000’s.</p>
+				<p>With me, you can expect website made with current design techniques and a snappy user experience.</p>
+			</div>
+			<div class="image">
+				<img src="{{ site.baseurl }}/images/2.png" alt="Screenshot" class=" editable" />
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>How can I <strong>forecast</strong> the next 90 days?</h2>
+				<p>Hydra learns your business. By analyzing your sales data, Hydra optimizes your sales process and show you where you should be spending your resources.</p>
+			</div>
+			<div class="image">
+				<img src="{{ site.baseurl }}/images/3.png" alt="Screenshot" class=" editable" />
+			</div>
+		</div>
+	</section>
+	<section class="testimonial">
+		<div class="container flex">
+			<div class="testimonial-block">
+				<div class="square-image"><img src="https://source.unsplash.com/6anudmpILw4/600x400" alt="Jim James" class="editable"></div>
+				<blockquote>
+					<p class="editable">Hydra has shaped the business we have today. We have a repeatable sales process and a strategy to scale our team. I recommend Hydra to any business looking to improve their sales.</p>
+					<p class="editable author">Jim James - CEO of Global Corp.</p>
+				</blockquote>
+			</div>
+		</div>
+	</section>
+	<section class="bottom-cta">
+		<h2 class="editable"><strong>Let's Begin Working On </strong>Your Website</h2>
+		<div class="button alt"><a href="#">Get Started Now</a></div>
+	</section>
+</div>

@@ -1,109 +1,46 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en-US' }}">
-<head>
-  {% include blog-post.html %}
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }} Feed"
-      href="{{ '/feed.xml' | absolute_url }}">
-  {% if site.favicon and site.favicon != "" %}
-  <link rel="shortcut icon" href="{{ site.favicon | relative_url }}" type="image/png" />
-  {% endif %}
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}">
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{% if page.feature_image %}{{ page.feature_image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
-  
-  <meta name="twitter:url" content="{{ page.url | absolute_url }}">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}">
-  <meta name="twitter:site" content="{{ site.title }}">
-  <meta name="twitter:image" content="{% if page.feature_image %}{{ page.feature_image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
-  
-  <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
-  {% if site.twitter_username %}
-      <meta name="twitter:creator" content="@{{ site.twitter_username }}">
-  {% endif %}
-  <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | prepend: site.baseurl }}">
-  <!-- Styles -->
-  <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i%7CNoto+Serif:400,400i,700,700i&display=swap" rel="stylesheet">
-  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153540786-1"></script>
-  <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-  
-      gtag('config', 'UA-153540786-1');
-  </script>
-  
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"17217025"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
-  </head>
-<body>
+---
+layout: page
+---
+<div class="blog-post text-container">
+	{% include post-title.html post=page %}
 
-  <div id="page" class="site">
-    <div class="inner">
-      {% include header.html %}
-      <main class="main-content fadeInDown delay_075s">
+	<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
+	<div class="post-content">
+		{{ content }}
 
-        <article class="post">
-          <header itemscope class="post-header">
-            <time itemprop class="post-date" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{page.date | date: "%B %-d, %Y" }}</time>
-            <h1 itemprop="mainEntityOfPage" class="post-title">{{page.title}}</h1>
-            <div itemscope class="post-meta">
-              By <span itemprop class="post-author">{{ site.data.author.name }}</span>
-            </div><!-- .post-meta -->
-            {% if page.feature_image and page.feature_image != "" %}
-            <figure class="post-thumbnail image-card width-wide">
-              <img itemprop="image" src="{{ page.feature_image | relative_url }}" alt="{{ page.title }}">
-            </figure><!-- .post-thumbnail -->
-            {% endif %}
-          </header i><!-- .post-header -->
-          <div class="post-content">
-            {{content}}
-          </div><!-- .post-content -->
-          <div class="post-share">
-            <span>Share:</span>
-            <a target="_blank"
-              href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ page.url | absolute_url }}" rel="noopener">Twitter</a>
-            <a target="_blank"
-              href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}&amp;t={{ page.title | uri_escape }}" rel="noopener">Facebook</a>
-          </div><!-- .share-post -->
-          <div class="author-box">
-            {% if site.data.author.image and site.data.author.image != "" %}
-            <div class="author-avatar" style="background-image: url('{{ site.data.author.image }}')"><span class="screen-reader-text">{{ site.data.author.name }}'s Picture</span></div>
-            {% endif %}
-            <div itemscope class="author-details">
-              <h2 itemprop class="author-title">About {{ site.data.author.name }}</h2>
-              <div itemscope class="author-bio">{{ site.data.author.bio | markdownify }}</div>
-              {% if site.data.author.location and site.data.author.location != "" %}
-              <span itemprop class="author-location">{{ site.data.author.location}}</span>
-              {% endif %}
-              {% if site.data.author.url and site.data.author.url != "" %}
-              <span itemprop class="author-website"><a href="{{ site.data.author.url }}" target="_blank" rel="noopener">{{ site.data.author.url }}</a></span>
-              {% endif %}
-            </div><!-- .author-details -->
-          </div><!-- .author-box -->
-        </article><!-- .post -->
-      
-        {% if site.disqus and site.disqus != "" %}
-          {% include disqus.html %}
-        {% endif %}
-      
-      </main><!-- .main-content -->      {% include footer.html %}
-    </div><!-- .inner -->
-  </div><!-- .site -->
+		<div class="author">
+			{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
+			{% assign author = site.staff_members | where: "url", author_id | first %}
+			<div class="square-image"><img src="{% include relative-src.html src=author.image_path %}" alt="{{ author.name }}"/></div>
+			<p class="blurb">{{ author.blurb }}</p>
+		</div>
 
-  <!-- Scripts -->
-  <script src="{{ '/assets/js/plugins.js' | relative_url }}"></script>
-  <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
+		<div class="blog-navigation">
+			{% if page.previous.url %}
+				<a class="prev" href="{% include relative-src.html src=page.previous.url %}">&laquo; {{ page.previous.title }}</a>
+			{% endif %}
+			{% if page.next.url %}
+				<a class="next" href="{% include relative-src.html src=page.next.url %}">{{ page.next.title }} &raquo;</a>
+			{% endif %}
+		</div>
 
-</body>
-</html>
+		{% if site.disqus_shortname and page.comments %}
+			<div id="disqus_thread"></div>
+			<script>
+				var disqus_shortname = '{{ site.disqus_shortname }}';
+				var disqus_config = function () {
+					this.page.url = "{{ page.url | prepend: site.url }}";
+					this.page.identifier = "{{ page.id }}";
+				};
 
+				(function() {  // DON'T EDIT BELOW THIS LINE
+					var d = document, s = d.createElement('script');
+					s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+					s.setAttribute('data-timestamp', +new Date());
+					(d.head || d.body).appendChild(s);
+				})();
+			</script>
+			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+		{% endif %}
+	</div>
+</div>
