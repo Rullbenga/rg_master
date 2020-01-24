@@ -6,10 +6,8 @@ date: 2020-01-02T12:00:00-08:00
 ---
 
 
-## Why Your Website Should Be Built On WordPress
-You might be trying to decide whcih platform to make your website with,
-
-I’m going to give you a few reasons why you should consider making your website with WordPress instead of going an alternative route, but first...
+**Why Your Website Should Be Built On WordPres**
+You might be trying to decide which platform to make your website with, I’m going to give you a few reasons why you should consider making your website with WordPress instead of going an alternative route, but first...
 
 What is WordPress?
 WordPress is a software known as a CMS (content management system)  that you can use to make a beautiful websites in a jiffy. 

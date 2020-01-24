@@ -5,7 +5,7 @@ author_staff_member: Ruben Gutierrez
 date: 2020-01-06T12:00:00-08:00
 ---
 
-Learn what you need to do to make a WordPress website yourself.
+Learn what you need to do to make a WordPress website by yourself.
 
 ## WordPress themes are amazing!
 
